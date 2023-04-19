@@ -10,6 +10,7 @@ public class CalculatorTest {
 		substract(cal);
 		multiply(cal);
 		divide(cal);
+		
 	}
 	
 	private static void add(Calculator cal)
